@@ -1,6 +1,7 @@
-package aula07;
+package ultraemojicombat;
 
 public class Lutador {
+    //Atributos
     private String nome;
     private String nacionalidade;
     private int idade;
